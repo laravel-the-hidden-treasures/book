@@ -1,7 +1,8 @@
 # The hidden treasures
 ## Questions, comments, issues or whatever
 All feedback is hugely appreciated! Any questions, comments, issues or whatever
-...could be added as a new issue [here](https://github.com/laravel-the-hidden-treasures/issues)!
+
+...could be added as a new issue [here](https://github.com/laravel-the-hidden-treasures/book/issues)!
 
 ## New Issues
 Please provide:
