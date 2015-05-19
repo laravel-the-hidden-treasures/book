@@ -8,7 +8,7 @@ All feedback is hugely appreciated! Any questions, comments, issues or whatever
 Please provide:
 
 - Chapter
-- Class and Method found
+- Class and Method
 - Page numbers - not so important to lose time with this, if you do so prefer the PDF version
 
 Once again thank you so much for your support. Happy coding!!!
