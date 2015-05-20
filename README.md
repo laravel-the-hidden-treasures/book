@@ -1,4 +1,4 @@
-# The hidden treasures
+# Laravel5 - The hidden treasures
 ## Questions, comments, issues or whatever
 All feedback is hugely appreciated! Any questions, comments, issues or whatever
 
